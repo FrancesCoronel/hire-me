@@ -1,6 +1,6 @@
-# HireMe
+# hire-me
 
-[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/readme/issues.svg?style=flat-square)](https://github.com/fvcproductions/readme/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/readme/pulls.svg?style=flat-square)](https://github.com/fvcproductions/readme/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Github Issues](http://githubbadges.herokuapp.com/fvcproductions/hire-me/issues.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/fvcproductions/hire-me/pulls.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/pulls) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 > A path to getting an awesome tech gig
 
@@ -18,13 +18,21 @@
 
 There are many free resources out there to prepare you for the technical interview:
 
+### Websites
+
+- [CareerCup](http://www.careercup.com/)
 - [Coderbyte](http://coderbyte.com)
-- [Interview - GitHub Repo](http://github.com/andreis/interview)
 - [Interview Cake](http://www.interviewcake.com)
 - [Interviewbit](http://www.interviewbit.com/profile/fvcproductions)
 - [Interviewing.io](http://interviewing.io/)
 
-Look up [Meetup groups](http://www.meetup.com) in your local area that are dedicated to preparing for coding interviews and go to a few Meetups
+### GitHub Repos
+
+- [code-problems](https://github.com/blakeembrey/code-problems)
+- [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+- [interview](http://github.com/andreis/interview)
+
+Look up [Meetup groups](http://www.meetup.com) in your local area that are dedicated to preparing for coding interviews to practice with others
 
 ## Step 2 - Search
 
@@ -38,19 +46,33 @@ Explore company reviews using [Glassdoor](http://glassdoor.com) - it's phenomena
 
 ### Job Boards
 
-[Angel.co Jobs](https://angel.co/jobs)
-[Behance Jobs](https://www.behance.net/joblist)
-[DesignerJobs](https://www.designerjobs.co/)
-[Dribbble Jobs](https://dribbble.com/jobs)
-[Glassdoor Jobs](https://www.glassdoor.com/index.htm)
-[Indeed](https://www.indeed.com/)
-[LinkedIn Jobs](https://www.linkedin.com/jobs)
-[PandaJobs](http://panda.jobs/)
-[ProductHire](https://producthire.co/)
-[StackOverflow Jobs](http://stackoverflow.com/jobs)
-[SudoHoot Jobs](http://jobs.sudohoot.com/)
-[The Muse](https://www.themuse.com/)
-[Women Who Code Jobs](https://www.womenwhocode.com/jobs)
+- [Angel.co Jobs](https://angel.co/jobs)
+- [BainCapital Ventures](http://jobs.baincapitalventures.com/)
+- [Behance Jobs](https://www.behance.net/joblist) 🎨
+- [Coding Internships](https://codinginternships.com/)
+- [CrunchBoard](http://www.crunchboard.com/)
+- [DesignerJobs](https://www.designerjobs.co/) 🎨
+- [Digital.NYC](http://www.digital.nyc/jobs)
+- [Dribbble Jobs](https://dribbble.com/jobs) 🎨
+- [GarysGuide](http://www.garysguide.com/jobs)
+- [GitHub Jobs](https://jobs.github.com/positions)
+- [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
+- [HackerNews - Who's Hiring](https://hn.algolia.com/?sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story&query=Who%20is%20hiring)
+- [Indeed](https://www.indeed.com/)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs)
+- [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
+- [Outreachy](https://www.gnome.org/outreachy/)
+- [PandaJobs](http://panda.jobs/)
+- [ProductHire](https://producthire.co/)
+- [SimplyHired](http://www.simplyhired.com/local-jobs/new-york-ny)
+- [Slack at Work](https://slackatwork.com/)
+- [StackOverflow Jobs](http://stackoverflow.com/jobs)
+- [SudoHoot Jobs](http://jobs.sudohoot.com/)
+- [Switch](http://www.switchapp.com/)
+- [The Muse](https://www.themuse.com/)
+- [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
+- [YCombinator Jobs](https://news.ycombinator.com/jobs)
+- [ZipRecruiter](https://www.ziprecruiter.com/)
 
 ## Step 3 - Apply
 
@@ -79,11 +101,11 @@ To really learn how to negotiate your salary, check out the book [Fearless Salar
 - 🍴 Fork this repo [here](https://github.com/fvcproductions/readme#fork-destination-box)
 - 🔨 Hack away
 - 😊 Add yourself as a contributor under credits
-- 🔧 Make a pull request [here](https://github.com/fvcproductions/readme/compare)
+- 🔧 Make a pull request [here](https://github.com/fvcproductions/hire-me/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue [here](https://github.com/fvcproductions/readme/issues)!
+- 😯 Create an issue [here](https://github.com/fvcproductions/hire-me/issues)!
 
 ## Credits
 
