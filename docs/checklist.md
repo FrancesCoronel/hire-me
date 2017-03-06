@@ -1,6 +1,6 @@
 # Interview Checklist
 
-***The onsite interview has been scheduled. Now it’s time to Research! ***
+Your onsite interview has been scheduled. What do you do now??
 ** **
 
 **Company Website­ **Familiarize yourself with their tech stack! Check out their company culture page. Read their “About Us” page. Familiarize yourself with their team page ( and also see what the people are wearing).

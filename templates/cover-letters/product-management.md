@@ -8,3 +8,9 @@ Through this internship, I hope to gain a start in a PM career. Since I have exp
 
 Cheers,
 Frances
+
+---
+
+With my past projects, I have received very good feedback for rapid prototyping and presentation designs. My background includes internships involving web design and development using HTML/CSS/JS as well as optimizing Unity app UIs.
+
+Since I have experience with product design already, I am taking the initiative this fall by attending a part-time product management course in New York City through Product School.
