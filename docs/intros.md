@@ -14,6 +14,8 @@ Frances is a developer with a design background who gets a lot of personal satis
 
 21 year old Latina developer/designer. When I graduate, I'll have taken 81 college courses. Active portfolio. Hackathons and conferences constantly.
 
+21 year old Latina developer/designer. 80+ college courses under belt. Active portfolio. Hackathons and conferences constantly.
+
 ### Version 2
 
 Latina developer with a design background who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set
