@@ -1,4 +1,25 @@
-# Interview Questions To Ask
+# Asking Questions
+
+## Culture
+
+- If you had an idea for something you thought would be great to work on, what would it take to make it happen?
+    + What is the process from having an idea to getting it out the door?
+
+## Company
+
+- What is the biggest challenge facing [the company] right now? What worries you about this issue? And how is [the company] working on solving it?
+
+## Interviewer Experience
+
+- What’s the last thing you shipped?
+    + What’s the last thing you launched that real people are now using?
+- If you had an idea for something you thought would be great to work on, what would it take to make it happen? What is the process from having an idea to getting it out the door?
+What is the biggest challenge facing the business right now? What worries you? And how are you working on solving it?
+So your target consumers are?
+
+## Save for Later
+
+- What are the benefits/amenities I would be recieving?
 
 - what would i be doing on a day to day basis
 - what do you think key skills are for job
@@ -44,8 +65,7 @@
 - What new technologies are you guys excited about?
 - Would you say that X has a good work/life balance?
 
-## For Product Managers
-
+##
 
 - What’s the last thing you shipped? What’s the last thing you launched that real people are now using?
 If you had an idea for something you thought would be great to work on, what would it take to make it happen? What is the process from having an idea to getting it out the door?

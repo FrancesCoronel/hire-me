@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>hire-me</title>
+    <link rel="icon" href="_media/favicon.ico">
+    <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
+    <meta name="description" content="A magical documentation generator.">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue">
+    <style>
+    body {
+        font-size: 1rem;
+    }
+
+    nav.app-nav li ul {
+        min-width: 100px;
+    }
+
+    .sidebar ul li a {
+        white-space: pre-line;
+        padding-right: .5em;
+    }
+
+    .markdown-section code {
+        font-size: inherit;
+    }
+
+    .markdown-section pre>code {
+        white-space: pre-wrap;
+    }
+
+    pre:after {
+        padding: 1em;
+        right: .5em;
+    }
+
+    .markdown-section ol,
+    .markdown-section ul {
+        margin: 0;
+    }
+    </style>
+</head>
+
+<body>
+    <div id="app">One sec... 😅</div>
+</body>
+<script>
+window.$docsify = {
+    auto2top: true,
+    coverpage: true,
+    executeScript: true,
+    loadSidebar: true,
+    loadNavbar: true,
+    name: 'hire-me',
+    search: {
+        paths: 'auto',
+        placeholder: 'Type to search 🔍',
+        noData: 'No Results! 😞',
+    }
+};
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+
+</html>
