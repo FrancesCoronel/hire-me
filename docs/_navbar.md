@@ -1,1 +1,1 @@
-- :briefcase:
+- <img src="_images/icon.svg" width="25">

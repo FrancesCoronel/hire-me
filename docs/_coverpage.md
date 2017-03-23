@@ -1,12 +1,10 @@
-![logo](_media/icon.svg)
+<img src="_images/icon.svg" width="50">
 
-# docsify <small>3.4</small>
+# hire-me <small>1.0</small>
 
-> A magical documentation site generator.
-
-- Simple and lightweight (~16kB gzipped)
-- No statically built html files
-- Multiple themes
+> A path to getting an awesome tech gig.
 
 [GitHub](https://github.com/fvcproductions/hire-me)
 [Get Started](#hire-me)
+
+![color](#f0f0f0)
