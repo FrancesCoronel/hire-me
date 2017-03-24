@@ -1,3 +1,5 @@
+![](docs/_images/screenshot.png)
+
 # hire-me
 
 [![Github Issues](https://img.shields.io/github/issues/fvcproductions/hire-me.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/hire-me.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
@@ -25,7 +27,7 @@ There are many free resources out there to prepare you for the technical intervi
 - [CareerCup](http://www.careercup.com/)
 - [Coderbyte](http://coderbyte.com)
 - [Interview Cake](http://www.interviewcake.com)
-- [Interviewbit](http://www.interviewbit.com/profile/fvcproductions)
+- [Interviewbit](http://www.interviewbit.com/)
 - [Interviewing.io](http://interviewing.io/)
 
 ### GitHub Repos
