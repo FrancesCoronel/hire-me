@@ -1,73 +1,62 @@
 # Asking Questions
 
+## Position
+
+- How would you describe the responsibilities of the position?
+- How would you describe a typical day and week in this position?
+- Is this a new position?
+    + If not, what did the previous employee go on to do?
+- Who does this position report to?
+- How much travel is expected?
+- What is the typical work week in terms of hours?
+    + Do a lot of folks work overtime?
+- What's the most important thing I should accomplish in the first ninety days?
+- Are there metrics or goals set up for me the first week that I would be striving towards?
+
+## Team
+
+- Can you talk a bit about communication within the team? Across teams?
+- How many people work in this office/department?
+- Let's say I'm doing really terribly or really great the first week.
+    + How am I going to be getting feedback as to whether I'm performing great or terribly?
+- How does the team keep up to date with the latest and greatest technologies?
+- What are some of the internal tools used in the company and what role do they play?
+- What is used for version control?
+- What's the overall tech stack I'd be working with?
+- How does the code review process work?
+- Are there weekly sprints or standup meetings?
+- How often are meetings and how long?
+
 ## Culture
 
 - If you had an idea for something you thought would be great to work on, what would it take to make it happen?
     + What is the process from having an idea to getting it out the door?
+- What is the company's management style?
+    + How do you prevent micro-management amongst managers and developers or designers?
+- Does diversity play a part in company culture?
 
 ## Company
 
-- What is the biggest challenge facing [the company] right now? What worries you about this issue? And how is [the company] working on solving it?
+- What is the biggest challenge facing [the company] right now?
+- Who are your target consumers?
+- How many people work in this office/department?
+- How would you describe this company's values?
+- How has the company changed over the last few years?
+- What are the company's plans for growth and development?
 
 ## Interviewer Experience
 
+- How long have you been with the company?
+- What is it like working there?
+- How did you get your job?
+- What is one thing you love about working at [company] and one thing that really frustrates you?
+- What are the biggest rewards of the job and working for this company?
 - What’s the last thing you shipped?
     + What’s the last thing you launched that real people are now using?
 - If you had an idea for something you thought would be great to work on, what would it take to make it happen? What is the process from having an idea to getting it out the door?
-What is the biggest challenge facing the business right now? What worries you? And how are you working on solving it?
-So your target consumers are?
+- What is the biggest challenge facing [the company] right now? What worries you about this issue? And how is [the company] working on solving it?
+- What has your past experience been like working with [position applying for]?
 
-## Save for Later
+## Wrap Up
 
-- What are the benefits/amenities I would be recieving?
-
-- what would i be doing on a day to day basis
-- what do you think key skills are for job
-- when can i expect this to start and end
-- how am i going to get feedback
-- how long have you been with the company
-- what is it like working there
-- whats one thing you like and one thing that frustrates you
-- how did you get your job
-- what is the team/culture like
-- how would you define success for this role in 3 months, 6 months, and 1 year
-- is there a metric I would be held to
-- internal tools used in company
-- version control
-- dot files
-- tech stack
-- do other co-workers hover over programmers - micro-management?
-- biggest challenges and opportunities facing company at moment
-- what are key revenue streams for company
-- benefits/amenities
-- How do employees keep up to date with latest tech besides online training? Are there conferences - events - etc?
-- company culture
-- hours and commitment
-- would i have to travel
-- what are you looking for that you feel you’re not finding in candidates
-- next step in process
-- time line for getting back to me
-- interesting challenges are you/your team/the company facing?
-- favorite part about working at the company?
-- why did you choose this tech stack?
-- overall satisfaction rate
-- how many projects would i be assigned in a year
-- What is the company's stance on automated testing?
-- What is the code review process?
-- Does the company follow agile methodologies? If so, can you explain that process?
-- What are you looking for in a candidate?
-- What reservations do you have about hiring me right now?
-- What types of support would I receive as a new hire?
-- How will I be evaluated as a new hire?
-- If I were successful there, what would I have accomplished in 6 months?
-- What kinds of projects will I have completed in 6 months? a year?
-- Can you talk a bit about communication within the team? Across teams?
-- What new technologies are you guys excited about?
-- Would you say that X has a good work/life balance?
-
-##
-
-- What’s the last thing you shipped? What’s the last thing you launched that real people are now using?
-If you had an idea for something you thought would be great to work on, what would it take to make it happen? What is the process from having an idea to getting it out the door?
-What is the biggest challenge facing the business right now? What worries you? And how are you working on solving it?
-So your target consumers are?
+- So now that I've exhausted my questions here, could you give me an overview of what the next steps in the process are or a time line for getting back to me?
