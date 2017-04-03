@@ -42,3 +42,30 @@ Might have something to do with human nature in general though, so interpret it 
 - CS major (graduating in 3 years)
 - 20 years old as of October 2015
 - My name is Frances Coronel.
+
+---
+---
+---
+
+# 2017
+
+> Please respond to the following questions in essay form: 1) Why do you want to attend the event? 2) What will you gain from attending? 3) Tell us about your experience as a member of an underrepresented group in tech. Please keep submissions under 500 words in length.
+
+As a graduating master's student in computer science, I'm just about to embark on my new career for web development/design. Going to such a tight niche conference like the MongoDB World Conference would really set on my right path to a good start in my career.
+
+MongoDB would directly addresses the tools and topics I need to learn about given that I was formally taught in the MEAN stack and have coded out web apps in the past that utilize MongoDB as the database of choice. And as a developer who uses MongoDB, I have the responsibility to keep up with the times and update my skills whenever necessary. It's what I love most about the work I do - the constant change of it all and how no one can ever really claim expertise for too long a time.
+
+I'm a first-generation Peruvian-American female (Latina).
+
+Despite dealing with micro-aggressions and societal stereotypes my whole life, I've managed to keep being my interest very high in the tech field. However, never having anyone to relate to just based off more superficial things (race, gender, cultural background, etc.) can actually be really difficult sometimes.
+
+Within the tech community, there are usually bubbles formed around people of certain backgrounds and for the most part, I tend to not fit into them being Latina. And when you're literally the only female minority or Latina in the room all the time, it starts to feel isolating and discouraging.
+
+There are times when I get really tired of this and become depressed but I always manage to tell myself that this is a field I want to stay in and one I can be successful in as long as I keep at it.
+
+> Tell us about your background. *
+
+I'm a 21 year old Latina developer with a panache for design. Currently, I'm pursuing my Master's in Computer Science at Cornell Tech in downtown Chelsea at the Google campus. I personally get a lot of personal satisfaction out of helping the local tech community through my varied skill set.
+
+> 140-character statement that explains your reason for wanting to attend the event. You can include hashtags. *
+
