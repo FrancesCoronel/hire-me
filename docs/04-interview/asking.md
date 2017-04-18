@@ -2,6 +2,7 @@
 
 ## Position
 
+- How do you know what to work on each day?
 - How would you describe the responsibilities of the position?
 - How would you describe a typical day and week in this position?
 - Is this a new position?
@@ -19,13 +20,16 @@
 - How many people work in this office/department?
 - Let's say I'm doing really terribly or really great the first week.
     + How am I going to be getting feedback as to whether I'm performing great or terribly?
-- How does the team keep up to date with the latest and greatest technologies?
+- Are there weekly sprints or stand up meetings?
+- How often are meetings and how long?
+
+## Technical
+
 - What are some of the internal tools used in the company and what role do they play?
 - What is used for version control?
 - What's the overall tech stack I'd be working with?
 - How does the code review process work?
-- Are there weekly sprints or standup meetings?
-- How often are meetings and how long?
+- How does the team keep up to date with the latest and greatest technologies?
 
 ## Culture
 
@@ -60,3 +64,7 @@
 ## Wrap Up
 
 - So now that I've exhausted my questions here, could you give me an overview of what the next steps in the process are or a time line for getting back to me?
+
+> Resources
+
+- [A developer’s guide to interviewing](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd) (still need to add on these questions)
