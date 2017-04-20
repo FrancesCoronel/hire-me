@@ -1,1 +1,1 @@
-- <img src="_images/icon.svg" width="25">
+<!-- - <img src="_images/icon.svg" width="25"> -->

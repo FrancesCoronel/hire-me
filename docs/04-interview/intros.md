@@ -1,4 +1,19 @@
-# Intros
+# Introducing Yourself
+
+> Whether it's for a cover letter or meeting in-person, you should practice introducing yourself.
+>
+> Every company at some point is going to ask you that question at some point so it's ideal to have a decent answer and know it cold.
+
+A bare bones guideline to how to introduce yourself includes covering the following talking points...
+
+- Present
+    + What are you up to now? What does your job entail? What excites you about working there?
+- Past
+    + How did you get to where you are now? What did you study? Have you taught yourself anything?
+- Future
+    + What are you hoping to get from this company in this role? Where do you see yourself long-term?
+
+> These are some intros I've created for myself so I can have them handy for reference.
 
 ## Default
 
@@ -38,7 +53,7 @@ I'm a 21 year old Latina developer with a panache for design. Currently, I'm pur
 
 What does "varied skill set" actually imply? Well, I happen to enjoy freelance blogging and freelance web design & development, mentoring folks 1-to-1, and speaking at tech conferences or related events. These are all side hobbies though as my true passion lies in creating charming and constructive products.
 
-In terms of academic backgrounds, I recieved a Bachelor's in Computer Science from Hampton University May 2016 and have attended various external programs before like Fullstack Academy (web development), Designlab (web design), and Product School (product management).
+In terms of academic backgrounds, I received a Bachelor's in Computer Science from Hampton University May 2016 and have attended various external programs before like Fullstack Academy (web development), Designlab (web design), and Product School (product management).
 
 My past work experience includes first working part-time as a front-end developer while in my last semester at Hampton University at a local consulting agency called 80|20 in Norfolk, VA. Later, I interned as a wearables developer for Accenture Liquid Studio in Redwood City, CA during summer 2016. For spring 2017, I will be interning at NBCUniversal at 30 Rockefeller as a media tech intern.
 

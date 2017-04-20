@@ -2,4 +2,10 @@
 
 So a recruiter reached out and wants to interview. Congrats! 🎉
 
-Make sure to maintain a checklist to get ready for the interview, introduce yourself in an intriguing way, know the answers to some behavioral/experience questions they may ask, and **always always** ask questions!
+Here are some aspects I discuss in length when it comes to interviews...
+
+- preparing ahead of time for the interview
+- introducing yourself in an intriguing way
+- knowing the answers to behavioral or experience questions the interviewer may ask
+- **always always** asking questions
+- following up

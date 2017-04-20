@@ -1,5 +1,9 @@
 # Asking Questions
 
+> Having a question bank is useful if you want a reference of questions you can ask your interviewer.
+>
+> Asking at least one question from each aspect of the company is ideal so you can get a more holistic view.
+
 ## Position
 
 - How do you know what to work on each day?

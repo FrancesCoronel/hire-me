@@ -1,6 +1,8 @@
 # Step 1 - Prepare 📚 {docsify-ignore}
 
-There are many free resources out there to prepare you for the technical interview.
+> There are many free resources out there to prepare you for the technical interview.
+>
+> Here are a few I've personally found useful.
 
 ## Websites
 

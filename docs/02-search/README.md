@@ -1,14 +1,20 @@
 # Step 2 - Search {docsify-ignore}
 
-Make a list of companies that you would love to work for and rank them by desire.
+## Job Tracking
 
-Research existing people at these companies that have your desired role and check out their personal websites, GitHub, and [LinkedIn](http://linkedin.com) profiles to get a feel of what their background is.
+Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), or [Huntr](http://huntr.co/).
 
-Check if you know anyone working at that company already by checking their company page on [LinkedIn](http://linkedin.com).
+I personally used Airtable to keep track of all my applications more seriously when looking for a job starting in the summer of 2017.
 
-Explore company reviews using [Glassdoor](http://glassdoor.com) - it's phenomenal for this sort of thing.
+![Job Search - 2017](https://i.imgur.com/JNN772I.png)
 
 ## Job Boards
+
+Here are some website you can use when looking for open positions.
+
+I personally enjoyed using LinkedIn & Glassdoor since you can setup customized job alerts.
+
+![Job Alerts](https://i.imgur.com/35X4Xoy.png)
 
 - [Angel.co Jobs](https://angel.co/jobs)
 - [BainCapital Ventures](http://jobs.baincapitalventures.com/)

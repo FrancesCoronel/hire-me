@@ -1,6 +1,6 @@
 # Question Bank
 
-It's useful to keep some kind of question bank handy since a lot of interviewers tend to ask similar questions.
+> It's useful to keep some kind of question bank handy since a lot of interviewers tend to ask similar questions.
 
 * [Tell us about a time you built something awesome in code. How did you choose it? Why did you enjoy it?](/04-interview/questions/02)
 
