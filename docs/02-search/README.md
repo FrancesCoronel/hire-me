@@ -10,11 +10,7 @@ I personally used Airtable to keep track of all my applications more seriously w
 
 ## Job Boards
 
-Here are some website you can use when looking for open positions.
-
-I personally enjoyed using LinkedIn & Glassdoor since you can setup customized job alerts.
-
-![Job Alerts](https://i.imgur.com/35X4Xoy.png)
+Here are some websites you can use when looking for open positions.
 
 - [Angel.co Jobs](https://angel.co/jobs)
 - [BainCapital Ventures](http://jobs.baincapitalventures.com/)
@@ -29,7 +25,7 @@ I personally enjoyed using LinkedIn & Glassdoor since you can setup customized j
 - [GitHub Jobs](https://jobs.github.com/positions)
 - [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
 - [HackerNews - Who's Hiring](https://hn.algolia.com/?sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story&query=Who%20is%20hiring)
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Hiring Without Whiteboards - GitHub Repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Indeed](https://www.indeed.com/)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
@@ -45,3 +41,7 @@ I personally enjoyed using LinkedIn & Glassdoor since you can setup customized j
 - [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
 - [YCombinator Jobs](https://news.ycombinator.com/jobs)
 - [ZipRecruiter](https://www.ziprecruiter.com/)
+
+I personally enjoyed using LinkedIn & Glassdoor since you can setup customized job alerts.
+
+![Job Alerts](https://i.imgur.com/35X4Xoy.png)

@@ -1,16 +1,10 @@
-![hire-me](docs/_images/screenshot.png)
-
 # hire-me
+
+![](https://i.imgur.com/e3cjDTB.png)
 
 [![Github Issues](https://img.shields.io/github/issues/fvcproductions/hire-me.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/hire-me.svg?style=flat-square)](https://github.com/fvcproductions/hire-me/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
 
 > A path to getting an awesome tech gig
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Installation
 
