@@ -72,3 +72,4 @@
 > Resources
 
 - [A developer’s guide to interviewing](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd) (still need to add on these questions)
+- [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
