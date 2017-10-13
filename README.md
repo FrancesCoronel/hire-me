@@ -41,3 +41,4 @@ Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - an
 ## Credits
 
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
+- [Brooke Sargent](https://github.com/brookesargent)
