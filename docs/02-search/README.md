@@ -2,7 +2,7 @@
 
 ## Job Tracking
 
-Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), or [Huntr](http://huntr.co/).
+Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), [Huntr](http://huntr.co/), or [Trello](https://trello.com/).
 
 I personally used Airtable to keep track of all my applications more seriously when looking for a job starting in the summer of 2017.
 
