@@ -2,7 +2,7 @@
 
 ## Job Tracking
 
-Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), or [Huntr](http://huntr.co/).
+Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), [Huntr](http://huntr.co/), or [Trello](https://trello.com/).
 
 I personally used Airtable to keep track of all my applications more seriously when looking for a job starting in the summer of 2017.
 
@@ -32,12 +32,14 @@ Here are some websites you can use when looking for open positions.
 - [Outreachy](https://www.gnome.org/outreachy/)
 - [PandaJobs](http://panda.jobs/)
 - [ProductHire](https://producthire.co/)
+- [PowerToFly](https://powertofly.com/jobs/)
 - [SimplyHired](http://www.simplyhired.com/local-jobs/new-york-ny)
 - [Slack at Work](https://slackatwork.com/)
 - [StackOverflow Jobs](http://stackoverflow.com/jobs)
 - [SudoHoot Jobs](http://jobs.sudohoot.com/)
 - [Switch](http://www.switchapp.com/)
 - [The Muse](https://www.themuse.com/)
+- [We Work Remotely](https://weworkremotely.com/)
 - [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
 - [YCombinator Jobs](https://news.ycombinator.com/jobs)
 - [ZipRecruiter](https://www.ziprecruiter.com/)
