@@ -1,6 +1,6 @@
-<First of all, thank you for contributing to the `hire-me` repo, it is much appreciated! 😊>
+<!-- First of all, thank you for contributing to the `hire-me` repo, it is much appreciated! 😊 -->
 
-<Before raising an issue, make sure to verify the following.>
+<!-- Before raising an issue, make sure to verify the following. -->
 
 ## ✅️ By submitting this issue, I have verified the following
 

@@ -1,6 +1,6 @@
-<First of all, thank you for contributing to the `hire-me` repo, it is much appreciated! 😊>
+<!-- First of all, thank you for contributing to the `hire-me` repo, it is much appreciated! 😊 -->
 
-<Before creating a PR, make sure to verify the following.>
+<!-- Before creating a PR, make sure to verify the following. -->
 
 ## ✅️ By submitting this PR, I have verified the following
 
