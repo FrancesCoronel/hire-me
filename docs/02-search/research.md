@@ -4,21 +4,21 @@
 >
 > This is also a necessary step to take right before the actual interview itself.
 
-### Google
+## Google
 
 - Are they in the news?
-    + What's the latest?
-    + Any red flags?
+  - What's the latest?
+  - Any red flags?
 
-### Website
+## Company Website
 
 - Familiarize yourself with their tech stack.
 - Check out their company culture page.
 - Read their “About Us” page.
 - Familiarize yourself with their team page.
-    + What are they wearing? Casual, business casual or formal?
+  - What are they wearing? Casual, business casual or formal?
 
-### LinkedIn
+## LinkedIn
 
 - Research existing people at these companies that have your desired role and check out their personal websites, GitHub, and LinkedIn profiles to get a feel of what their background is.
 - By checking the company's page on LinkedIn, you might find out you already know someone relevant that can provide a warm intro.
@@ -26,16 +26,16 @@
 - Look at the extra information posted on the company page.
 - Follow the company if you're so inclined.
 
-### Glassdoor­
+## Glassdoor­
 
 - Skim over company reviews.
-    + Note if anything extremely positive or negative comes up consistently.
+  - Note if anything extremely positive or negative comes up consistently.
 - Read through the relevant interview experiences.
-    + It's easy to filter by specific position and get a lot of potential interview questions the company will actually ask you.
+  - It's easy to filter by specific position and get a lot of potential interview questions the company will actually ask you.
 
-### Crunchbase
+## Crunchbase
 
 - How many rounds of funding has the company had so far? From who?
 - How many people work there?
 - Who's part of the leadership team (CEO, CTO, etc.)?
-    + Do they have a good reputation?
+  - Do they have a good reputation?

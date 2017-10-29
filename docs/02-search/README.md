@@ -2,18 +2,28 @@
 
 ## Job Tracking
 
-Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), [Huntr](http://huntr.co/), or [Trello](https://trello.com/).
+Keep track of all the jobs you apply to using a platform like [Airtable](http://airtable.com), [Google Sheets](http://sheets.google.com), [Huntr](http://huntr.co/), [Trello](https://trello.com/), or [JobHero](https://gojobhero.com/app/)
 
-I personally used Airtable to keep track of all my applications more seriously when looking for a job starting in the summer of 2017.
+> An example with JobHero
 
-![Job Search - 2017](https://i.imgur.com/JNN772I.png)
+![JobHero - 2017](https://i.imgur.com/1GUUZfP.png)
+
+> An example with Airtable
+
+![Airtable - 2017](https://i.imgur.com/JNN772I.png)
 
 ## Job Boards
 
 Here are some websites you can use when looking for open positions.
 
+> design focused roles 🎨
+>
+> job board for women 🚺️
+>
+> VC firms hiring pool 💸️
+
 - [Angel.co Jobs](https://angel.co/jobs)
-- [BainCapital Ventures](http://jobs.baincapitalventures.com/)
+- [BainCapital Ventures](http://jobs.baincapitalventures.com/) 💸️
 - [Behance Jobs](https://www.behance.net/joblist) 🎨
 - [BetaList Jobs](https://betalist.com/jobs)
 - [Coding Internships](https://codinginternships.com/)
@@ -24,24 +34,25 @@ Here are some websites you can use when looking for open positions.
 - [GarysGuide](http://www.garysguide.com/jobs)
 - [GitHub Jobs](https://jobs.github.com/positions)
 - [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
-- [HackerNews - Who's Hiring](https://hn.algolia.com/?sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story&query=Who%20is%20hiring)
 - [Hiring Without Whiteboards - GitHub Repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Indeed](https://www.indeed.com/)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
 - [Outreachy](https://www.gnome.org/outreachy/)
 - [PandaJobs](http://panda.jobs/)
-- [ProductHire](https://producthire.co/)
 - [PowerToFly](https://powertofly.com/jobs/)
+- [ProductHire](https://producthire.co/)
+- [Sequoia](https://www.sequoiacap.com/jobs) 💸️
 - [SimplyHired](http://www.simplyhired.com/local-jobs/new-york-ny)
 - [Slack at Work](https://slackatwork.com/)
 - [StackOverflow Jobs](http://stackoverflow.com/jobs)
 - [SudoHoot Jobs](http://jobs.sudohoot.com/)
 - [Switch](http://www.switchapp.com/)
 - [The Muse](https://www.themuse.com/)
+- [Triblebyte](https://triplebyte.com) ️
 - [We Work Remotely](https://weworkremotely.com/)
-- [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
-- [YCombinator Jobs](https://news.ycombinator.com/jobs)
+- [Women Who Code Jobs](https://www.womenwhocode.com/jobs) 🚺️
+- [YCombinator Jobs](https://news.ycombinator.com/jobs) 💸️
 - [ZipRecruiter](https://www.ziprecruiter.com/)
 
 I personally enjoyed using LinkedIn & Glassdoor since you can setup customized job alerts.
