@@ -36,6 +36,7 @@ Here are some websites you can use when looking for open positions.
 - [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
 - [Hiring Without Whiteboards - GitHub Repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Indeed](https://www.indeed.com/)
+- [Landing.jobs](https://landing.jobs/)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
 - [Outreachy](https://www.gnome.org/outreachy/)

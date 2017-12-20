@@ -43,3 +43,4 @@ Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - an
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
 - [Brooke Sargent](https://github.com/brookesargent)
 - [Brittney Braxton](https://github.com/mintii)
+- [Isabel Costa](https://github.com/isabelcosta)
