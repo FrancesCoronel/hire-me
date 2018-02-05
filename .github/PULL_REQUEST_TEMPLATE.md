@@ -31,4 +31,4 @@ Insert description of PR here
 
 ### Adding yourself as a contributor.
 
-* [] Added my name to the bottom of the list under the \*_Credits_ section in the `README.md` with a link to my website or GitHub profile 👥️
+* [] Added my name to the bottom of the list under the _Credits_ section in the `README.md` with a link to my website or GitHub profile 👥️
