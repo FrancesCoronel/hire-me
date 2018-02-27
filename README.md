@@ -8,7 +8,7 @@ A path to getting an awesome tech gig
 
 > View this project at [`fvcproductions.github.io/hire-me`](https://fvcproductions.github.io/hire-me)
 
-![Screenshot](https://i.imgur.com/e3cjDTB.png)
+![Screenshot](https://i.imgur.com/AsCP5S1.png)
 
 ## Installation
 
