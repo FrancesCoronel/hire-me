@@ -1,8 +1,8 @@
 ## Following Up
 
-It's good practice to send a quick follow-up email to your interviewer afterwards.
-
-It's not absolutely necessary of course but it does create a positive impression.
+> It's good practice to send a quick follow-up email to your interviewer afterwards.
+>
+> It's not absolutely necessary of course but it does create a positive impression.
 
 ```text
 Dear [interviewer],

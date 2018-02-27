@@ -1,5 +1,7 @@
 # Step 2 - Search {docsify-ignore}
 
+> Searching for the ideal job position is tedious but here are a few resources to help you get started.
+
 ## Job Boards
 
 Here are some websites you can use when looking for open positions.

@@ -1,6 +1,6 @@
 <img src="_images/icon.svg" width="50">
 
-# hire-me <small>1.0</small>
+# hire-me
 
 > A path to getting an awesome tech gig.
 

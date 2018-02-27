@@ -1,8 +1,8 @@
 # Company Research {docsify-ignore}
 
-Once you've decided on which companies you want to interview with, make sure to do your research to ensure yourself that it'd be a good fit.
-
-This is also a necessary step to take right before the actual interview itself.
+> Once you've decided on which companies you want to interview with, make sure to do your research to ensure yourself that it'd be a good fit.
+>
+> This is also a necessary step to take right before the actual interview itself.
 
 ## Google
 

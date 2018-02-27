@@ -1,5 +1,7 @@
 # Product Manager? {docsify-ignore}
 
+> Here are a few resources for those trying to prepare for a PM interview.
+
 <!-- TOC depthFrom:2 -->
 
 * [Books](#books)
@@ -11,8 +13,6 @@
   * [The PM Interview](#the-pm-interview)
 
 <!-- /TOC -->
-
-Here are a few resources for those trying to prepare for a PM interview.
 
 ## Books
 

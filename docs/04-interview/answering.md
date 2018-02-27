@@ -1,6 +1,6 @@
 # Answering Questions
 
-It's useful to keep some kind of question bank handy since a lot of interviewers tend to ask similar questions.
+> It's useful to keep some kind of question bank handy since a lot of interviewers tend to ask similar questions.
 
 Here are a few to think of answers to as you prepare for the interviewee or recruiter to ask you behavioral type questions.
 

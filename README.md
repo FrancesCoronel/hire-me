@@ -38,10 +38,6 @@ docsify serve docs
 
 Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - any little bit of help counts! 😊
 
-## Further Resources
-
-* [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
-
 ## Credits
 
 * [FVCproductions](http://fvcproductions.com) 🍓🍫

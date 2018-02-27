@@ -1,14 +1,16 @@
 # Asking Questions
 
-At the end of the intro calls, a recruiter will generally ask if you have any questions. If you have 0 questions, this looks TERRIBLE so try to ask at least 3.
+> At the end of the intro calls, a recruiter will generally ask if you have any questions.
+>
+> If you have 0 questions, this looks TERRIBLE so try to ask at least 3.
+>
+> Having a question bank is useful if you want a reference of questions you can ask your interviewer.
+>
+> Asking at least one question from each aspect of the company is ideal so you can get a more holistic view.
+>
+> Here are a few sample questions you can ask your interviewer.
 
-Having a question bank is useful if you want a reference of questions you can ask your interviewer.
-
-Asking at least one question from each aspect of the company is ideal so you can get a more holistic view.
-
-Here are a few sample questions.
-
-## Position
+## Position Details
 
 * Are there metrics or goals set up for me the first week that I would be striving towards?
 * How do you know what to work on each day?
@@ -23,9 +25,11 @@ Here are a few sample questions.
 * What's the most important thing I should accomplish in the first ninety days?
 * Who does this position report to?
 
-## Interviewer
+### Interviewer - General
 
-> Relationship with Company
+> Depending on your interviewer, you can ask different kinds of questions.
+>
+> These questions can be asked of anyone on the team.
 
 * How did you get your job?
 * How long have you been with the company?
@@ -41,7 +45,9 @@ Here are a few sample questions.
 * What’s the last thing you shipped? What’s the last thing you launched that real people are now using?
 * When you were last interviewing, what were some of your other options, and what made you choose this company?
 
-## Developer
+### Interviewer - Developer
+
+> These are tailored for developers on the team.
 
 * Are there stand-ups/sprints?
 * Did any of your senior engineers start out as junior engineers here?
@@ -64,7 +70,9 @@ Here are a few sample questions.
 * What's the overall tech stack I'd be working with?
 * What’s been the worst technical screw up that’s happened in the recent past? How did you guys deal with it? What changes were implemented afterwards to make sure it didn’t happen again?
 
-## Engineering Manager
+### Interviewer - Engineering Manager
+
+> These questions are tailored for engineers managers on the team.
 
 * Do you do annual salary increases?
 * Do you do formal performance reviews?
@@ -80,6 +88,8 @@ Here are a few sample questions.
 
 ## Culture
 
+> Getting a vibe for the work environment.
+
 * Does diversity play a part in company culture? What kind of diversity programs are there at the company? How is diversity represented within the team or company?
 * How often do meetings, talks, or other events take place at lunch time? If you had to equate the lunch room into a high school cafeteria, what groups eat together?
 * If I had an idea for something I thought would be great to work on, would I be able to present it?
@@ -87,9 +97,6 @@ Here are a few sample questions.
 * What is the company's management style? How do you prevent micro-management amongst managers and developers or designers?
 * What types of support would I receive as a new hire?
 * When’s the last time you interacted with a founder? What was it regarding? Generally how involved are the founders in the day-to-day?
-
-### Team
-
 * Are there times of the month, quarter, or year when the team is most busy?
 * Are there weekly sprints or stand up meetings?
 * Can you talk a bit about communication within the team? Across teams?
@@ -102,6 +109,8 @@ Here are a few sample questions.
 * What was the most fun you’ve had at a team outing?
 
 ## Company
+
+> Getting more insight into logistical details of the company itself.
 
 * How do employees keep up to date with latest tech besides online training? Are there conferences - events - etc?
 * How do individual employees contribute to the creativity and innovation at [company]?
@@ -118,9 +127,13 @@ Here are a few sample questions.
 
 ## Wrap Up
 
+> Understanding next steps is vital.
+
 * So now that I've exhausted my questions here, could you give me an overview of what the next steps in the process are or a time line for getting back to me?
 
-> Other Resources
+---
+
+## Other Resources
 
 * [A developer’s guide to interviewing](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 * [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)

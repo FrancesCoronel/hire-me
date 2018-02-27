@@ -1,8 +1,8 @@
 # Interview Checklist {docsify-ignore}
 
-Your on-site interview has been scheduled.
-
-What do you do now??
+> Your on-site interview has been scheduled.
+>
+> So what's the plan? 🤔️
 
 ## Day Before
 
