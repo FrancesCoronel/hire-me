@@ -8,6 +8,10 @@ These are a few sentences I took from the book, [Fearless Salary Negotiation](ht
 
 > I want this move to be a big step forward for me in terms of both responsibility and compensation.
 
-To really learn how to negotiate your salary, I would check out that book [Fearless Salary Negotiation](http://fearlesssalarynegotiation.com/).
+## Fearless Salary Negotiaton
 
-Here's [a great overview of the book](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/) if you don't want to buy it.
+To really learn how to negotiate your salary, I would read that book [Fearless Salary Negotiation](http://fearlesssalarynegotiation.com/).
+
+Here's [a blog post covering some tips from the book](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/) if you don't want to buy it.
+
+![Fearless Salary Negotiation](https://s-media-cache-ak0.pinimg.com/originals/69/6a/b2/696ab2e5c457087d0528a9104f73197a.jpg)

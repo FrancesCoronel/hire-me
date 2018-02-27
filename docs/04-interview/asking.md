@@ -1,10 +1,12 @@
 # Asking Questions
 
-> Having a question bank is useful if you want a reference of questions you can
-> ask your interviewer.
->
-> Asking at least one question from each aspect of the company is ideal so you
-> can get a more holistic view.
+At the end of the intro calls, a recruiter will generally ask if you have any questions. If you have 0 questions, this looks TERRIBLE so try to ask at least 3.
+
+Having a question bank is useful if you want a reference of questions you can ask your interviewer.
+
+Asking at least one question from each aspect of the company is ideal so you can get a more holistic view.
+
+Here are a few sample questions.
 
 ## Position
 
