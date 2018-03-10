@@ -19,13 +19,15 @@ I'd recommend trying it out yourself since it's free.
 Here's a reply template you can use to follow up.
 
 ```markdown
-Hi [Name of Recruiter],
+Hi [Name of recruiter]
 
-Thanks for reaching out! I'm very excited to learn more about [company].
+Thanks for reaching out - I'm very excited to learn more about [Company Name]
 
-So in terms of setting up a time, I actually have a [Calendly](https://calendly.com/fvcproductions) where you're more than welcome to see which times I'll be available and make an appointment.
+So in terms of setting up a time to chat, I actually have a Calendly where you're more than welcome to see when I'll be available this week or next.
 
-Thanks again for reaching out and I look forward to hearing back!
+[Calendly link]
+
+Looking forward to hearing back!
 
 [Email Signature]
 ```
