@@ -28,6 +28,14 @@
 
 ![Intercom on Product Management](https://i.imgur.com/Te9cRSm.png)
 
+## Email Newsletter
+
+Do you work best my getting a question in your inbox every week? Try out these newsletters!
+
+### Product Management Exercises
+
+https://productmanagementexercises.com/
+
 ## GitHub Repos
 
 ### Open Product Management
