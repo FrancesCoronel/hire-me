@@ -12,6 +12,8 @@
 * [Outco](#outco)
 * [Websites](#websites)
   * [Coderbyte](#coderbyte)
+  * [Codewars](#codewars)
+  * [Exercism](#exercism)
   * [HackerRank](#hackerrank)
   * [Interview Cake](#interview-cake)
   * [InterviewBit](#interviewbit)
@@ -61,6 +63,18 @@ It looks very promising but keep in mind that the program does cost $4.5K if you
 [Coderbyte](http://coderbyte.com) is a web application that helps you practice your programming skills, prepare for coding bootcamps, and prepare for job interviews with our collection of interview questions, videos, and solutions.
 
 ![Coderbyte](https://i.imgur.com/1MMHhBd.png)
+
+### Codewars
+
+[Codewars](http://codewars.com/) is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
+
+![Codewars](../_images/codewar.png)
+
+### Exercism
+
+[Exercism](http://exercism.io/) is a website that encourages you to practice having thoughtful conversations about code. Exercism's tiny toy problems, in the form of automated tests, provide a balance of constraints and freedom. The exercises encourage you to explore trade-offs and best-practices.
+
+![Exercism](../_images/exercism.png)
 
 ### HackerRank
 
