@@ -134,6 +134,6 @@
 ---
 
 ## Other Resources
-* [Culture Queries: questions to ask during an interview customized by your key values](https://www.keyvalues.com/culture-queries)
 * [A developer’s guide to interviewing](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
+* [Culture Queries: questions to ask during an interview customized by your key values](https://www.keyvalues.com/culture-queries)
 * [How to interview your interviewers](https://medium.freecodecamp.org/how-to-interview-your-interviewers-f8f65ac57b80)
