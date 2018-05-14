@@ -8,7 +8,7 @@ A path to getting an awesome tech gig
 
 > View this project at [`fvcproductions.github.io/hire-me`](https://fvcproductions.github.io/hire-me)
 
-![Screenshot](https://i.imgur.com/AsCP5S1.png)
+![hire-me screenshot](https://i.imgur.com/AsCP5S1.png)
 
 ## Installation
 
@@ -30,17 +30,17 @@ docsify serve docs
 
 > To get started...
 
-* 🍴 Fork this repo [here](https://github.com/fvcproductions/hire-me#fork-destination-box)
-* 🔨 Hack away
-* 👥 Add yourself as a contributor under credits
-* 🔧 Make a pull request [here](https://github.com/fvcproductions/hire-me/compare)
-* 🎉 Get your pull request approved - success!
+1.  🍴 [Fork this repo](https://github.com/fvcproductions/hire-me#fork-destination-box)
+2.  🔨 View the contributing guidelines at [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
+3.  👥 Add yourself as a contributor under the credits section
+4.  🔧 [Open a new pull request](https://github.com/fvcproductions/hire-me/compare)
+5.  🎉 Get your pull request approved - success!
 
 Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - any little bit of help counts! 😊
 
 ## Credits
 
-* [FVCproductions](http://fvcproductions.com) 🍓🍫
+* [FVCproductions](http://fvcproductions.com) 🍫🍓
 * [Brooke Sargent](https://github.com/brookesargent)
 * [Brittney Braxton](https://github.com/mintii)
 * [Isabel Costa](https://github.com/isabelcosta)
