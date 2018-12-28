@@ -40,8 +40,8 @@ Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - an
 
 ## Credits
 
-* [FVCproductions](http://fvcproductions.com) 🍫🍓
-* [Brooke Sargent](https://github.com/brookesargent)
-* [Brittney Braxton](https://github.com/mintii)
-* [Isabel Costa](https://github.com/isabelcosta)
-* [Monica Powell](https://github.com/m0nica)
+- [FVCproductions](http://fvcproductions.com) 🍫🍓
+- [Brooke Sargent](https://github.com/brookesargent)
+- [Brittney Braxton](https://github.com/mintii)
+- [Isabel Costa](https://github.com/isabelcosta)
+- [Monica Powell](https://github.com/m0nica)

@@ -52,11 +52,11 @@ Best,
 
 ## Tips
 
-* Don't regurgitate your resume
-* Mention a specific thing that appeals to you about working for that specific company
-* The first paragraph should directly state what position you're applying for
-* If you know someone at the company, now would be the time to mention them.
-* Share an idea you have that you think would be valuable for the company or even try to provide some help/criticism (I noticed a bug on your website...)
-* Make sure it's less than one page.
-* Share experiences that demonstrate how prepared you are for the job.
-* Provide relevant contact info (GitHub, LinkedIn, phone #, email, etc.)
+- Don't regurgitate your resume
+- Mention a specific thing that appeals to you about working for that specific company
+- The first paragraph should directly state what position you're applying for
+- If you know someone at the company, now would be the time to mention them.
+- Share an idea you have that you think would be valuable for the company or even try to provide some help/criticism (I noticed a bug on your website...)
+- Make sure it's less than one page.
+- Share experiences that demonstrate how prepared you are for the job.
+- Provide relevant contact info (GitHub, LinkedIn, phone #, email, etc.)

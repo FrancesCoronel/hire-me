@@ -2,17 +2,15 @@
 
 > Here are a few resources for those trying to prepare for a PM interview.
 
-<!-- TOC depthFrom:2 -->
-
-* [Books](#books)
-  * [Cracking the PM Interview](#cracking-the-pm-interview)
-  * [Intercom on Product Management](#intercom-on-product-management)
-* [GitHub Repos](#github-repos)
-  * [Open Product Management](#open-product-management)
-* [Websites](#websites)
-  * [The PM Interview](#the-pm-interview)
-
-<!-- /TOC -->
+- [Books](#books)
+  - [Cracking the PM Interview](#cracking-the-pm-interview)
+  - [Intercom on Product Management](#intercom-on-product-management)
+- [Email Newsletter](#email-newsletter)
+  - [Product Management Exercises](#product-management-exercises)
+- [GitHub Repos](#github-repos)
+  - [Open Product Management](#open-product-management)
+- [Websites](#websites)
+  - [The PM Interview](#the-pm-interview)
 
 ## Books
 
