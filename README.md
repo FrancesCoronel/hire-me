@@ -31,7 +31,7 @@ docsify serve docs
 > To get started...
 
 1.  🍴 [Fork this repo](https://github.com/fvcproductions/hire-me#fork-destination-box)
-2.  🔨 View the contributing guidelines at [CONTRIBUTING.md](/CONTRIBUTING.md)
+2.  🔨 View the contributing guidelines at [CONTRIBUTING.md](https://github.com/fvcproductions/hire-me/CONTRIBUTING.md)
 3.  👥 Add yourself as a contributor under the credits section
 4.  🔧 [Open a new pull request](https://github.com/fvcproductions/hire-me/compare)
 5.  🎉 Get your pull request approved - success!
@@ -45,3 +45,4 @@ Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - an
 - [Brittney Braxton](https://github.com/mintii)
 - [Isabel Costa](https://github.com/isabelcosta)
 - [Monica Powell](https://github.com/m0nica)
+- [Michael Barbine](https://github.com/mbarbine)
