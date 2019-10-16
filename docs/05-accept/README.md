@@ -6,4 +6,4 @@ I would recommend asking for a better salary from companies you feel you could g
 
 Only focus on `base salary` when considering offers. Many companies like to offer the total package number first which includes bonuses and other benefits.
 
-Realize both your salary and bonuses offered are going to go through taxes, so take that into account.
+Realize both your salary and bonuses offered are going to go through taxes, so take that into account. 💸
