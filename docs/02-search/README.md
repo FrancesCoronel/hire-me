@@ -49,7 +49,9 @@ Here are some websites you can use when looking for open positions.
 - [Coding Internships](https://codinginternships.com/) 🎓
 - [CrunchBoard](http://www.crunchboard.com/)
 - [DesignerJobs](https://www.designerjobs.co/) 🎨
+- [Dev.to Listings](https://dev.to/listings)
 - [Digital.NYC](http://www.digital.nyc/jobs)
+- [DiversifyTech.co](https://www.diversifytech.co/job-board/)
 - [Dribbble Jobs](https://dribbble.com/jobs) 🎨
 - [GarysGuide](http://www.garysguide.com/jobs)
 - [GitHub Jobs](https://jobs.github.com/positions)
