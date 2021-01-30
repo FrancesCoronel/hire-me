@@ -45,3 +45,4 @@ Or just [create an issue](https://github.com/fvcproductions/hire-me/issues) - an
 - [Brittney Braxton](https://github.com/mintii)
 - [Isabel Costa](https://github.com/isabelcosta)
 - [Monica Powell](https://github.com/m0nica)
+- [Boopathi Kumar](https://github.com/boopathikumar018)
