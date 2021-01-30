@@ -6,7 +6,7 @@
 
 A path to getting an awesome tech gig
 
-> View this project at [`fvcproductions.github.io/hire-me`](https://fvcproductions.github.io/hire-me)
+> View this project at [`hiring.fvcproductions.com`](https://hiring.fvcproductions.com)
 
 ![hire-me screenshot](https://i.imgur.com/AsCP5S1.png)
 
