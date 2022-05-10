@@ -1,12 +1,10 @@
-![hire-me](https://i.imgur.com/4izvPGc.png)
-
 # hire-me
 
 A path to getting an awesome tech gig
 
 > View this project at [`hire-me-fvc.netlify.app`](https://hire-me-fvc.netlify.app/)
 
-![hire-me screenshot](https://i.imgur.com/AsCP5S1.png)
+![hire-me](https://i.imgur.com/J1fCB2I.png)
 
 ## Installation
 
