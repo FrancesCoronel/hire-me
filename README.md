@@ -2,7 +2,7 @@
 
 A path to getting an awesome tech gig
 
-> View this project at [`hire-me-fvc.netlify.app`](https://hire-me-fvc.netlify.app/)
+> View this project at [`engjobsearch.com`](https://engjobsearch.com)
 
 ![hire-me](https://i.imgur.com/J1fCB2I.png)
 
