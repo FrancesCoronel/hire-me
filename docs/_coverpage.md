@@ -1,4 +1,4 @@
-<img src="_images/icon.svg" width="50">
+<img src="img/icon.svg" width="50">
 
 # Eng Job Search
 
