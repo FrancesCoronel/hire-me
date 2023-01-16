@@ -1,0 +1,34 @@
+body {
+  font-size: 1rem;
+}
+
+pre:after {
+  padding: 1em;
+  right: 0.5em;
+}
+
+nav.app-nav li ul {
+  min-width: 100px;
+}
+
+.sidebar ul li a {
+  white-space: pre-line;
+  padding-right: 0.5em;
+}
+
+.markdown-section {
+  max-width: 90%;
+}
+
+.markdown-section code {
+  font-size: inherit;
+}
+
+.markdown-section pre > code {
+  white-space: pre-wrap;
+}
+
+.markdown-section ol,
+.markdown-section ul {
+  margin: 0;
+}
