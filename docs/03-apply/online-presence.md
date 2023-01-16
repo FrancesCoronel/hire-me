@@ -6,32 +6,32 @@
 
 ## Personal Website
 
-http://fvcproductions.com
+http://francescoronel.com
 
 ## GitHub
 
-http://github.com/fvcproductions
+http://github.com/francescoronel
 
 ## Behance
 
-http://behance.net/fvcproductions
+http://behance.net/francescoronel
 
 ## Speaker Deck
 
-http://speakerdeck.com/fvcproductions
+http://speakerdeck.com/francescoronel
 
 ## SlideShare
 
-http://slideshare.net/fvcproductions
+http://slideshare.net/francescoronel
 
 ## Scribd
 
-http://scribd.com/fvcproductions
+http://scribd.com/francescoronel
 
 ## LinkedIn
 
-http://linkedin.com/in/fvcproductions
+http://linkedin.com/in/francescoronel
 
 ## Gravatar
 
-http://gravatar.com/fvcproductions
+http://gravatar.com/francescoronel
