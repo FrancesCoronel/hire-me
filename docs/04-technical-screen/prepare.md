@@ -2,36 +2,6 @@
 
 > There are many free resources out there to prepare you for the technical interview.
 
-<!-- TOC depthFrom:2 -->
-
-- [Blogs](#blogs)
-  - [freeCodeCamp](#freecodecamp)
-- [GitHub Repos](#github-repos)
-  - [awesome-interview-questions](#awesome-interview-questions)
-  - [code-problems](#code-problems)
-  - [front-end-developer-interview-questions](#front-end-developer-interview-questions)
-  - [getting-a-gig](#getting-a-gig)
-  - [interview](#interview)
-  - [interviews](#interviews)
-  - [system-design-primer](#system-design-primer)
-- [In-Person](#in-person)
-  - [Meetup Groups](#meetup-groups)
-  - [Outco](#outco)
-- [Websites](#websites)
-  - [CodeFights](#codefights)
-  - [Coderbyte](#coderbyte)
-  - [Codewars](#codewars)
-  - [Exercism](#exercism)
-  - [HackerRank](#hackerrank)
-  - [Interview Cake](#interview-cake)
-  - [InterviewBit](#interviewbit)
-  - [Interviewing.io](#interviewingio)
-  - [LeetCode](#leetcode)
-  - [Pramp](#pramp)
-- [Further Resources](#further-resources)
-
-<!-- /TOC -->
-
 ## Blogs
 
 > If you prefer to read high-level blog posts when trying to ramp up on a specific technology, these blogs come highly recommended.

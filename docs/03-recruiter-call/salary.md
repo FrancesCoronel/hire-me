@@ -1,4 +1,10 @@
-# Negotiating Salary
+## Salary
+
+Yes, the recruiter may ask about your salary expectations.
+
+> As of January 2023, [salary ranges](https://www.nytimes.com/2022/10/29/business/nyc-us-salary-transparency.html) in the JDs are now required in several states such as California, New York and Colorado.
+
+### Declining to Answer
 
 These are a few sentences I took from the book, [Fearless Salary Negotiation](http://fearlesssalarynegotiation.com/), on how to respond to a recruiter who tries to ask you what your previous salary was at your last gig.
 
@@ -7,11 +13,3 @@ These are a few sentences I took from the book, [Fearless Salary Negotiation](ht
 > I don’t have a specific number in mind for a desired salary, and you know better than I do what value my skill set and experience could bring to your company.
 >
 > I want this move to be a big step forward for me in terms of both responsibility and compensation.
-
-## Fearless Salary Negotiaton
-
-To really learn how to negotiate your salary, I would read that book [Fearless Salary Negotiation](http://fearlesssalarynegotiation.com/).
-
-Here's [a blog post covering some tips from the book](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/) if you don't want to buy it.
-
-![Fearless Salary Negotiation](https://s-media-cache-ak0.pinimg.com/originals/69/6a/b2/696ab2e5c457087d0528a9104f73197a.jpg)

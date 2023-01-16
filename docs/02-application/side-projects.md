@@ -1,4 +1,4 @@
-## Projects
+## Side Projects
 
 ### `Gear61/Software-Project-Ideas`
 

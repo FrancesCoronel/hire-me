@@ -1,8 +1,8 @@
-## Programs
+## Pay to Play Programs
 
-Most of these programs are pay to play.
+These programs are **pay to play**.
 
-These are not coding bootcamps but instead hiring bootcamps that focus entirely on helping you land a job, usually through tech interview prep.
+These are **not [coding bootcamps](https://www.coursereport.com/)** but instead hiring bootcamps that focus entirely on helping you land a job, usually through tech interview prep.
 
 ### Outco
 

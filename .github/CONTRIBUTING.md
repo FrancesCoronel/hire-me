@@ -1,5 +1,11 @@
 ## Contributing
 
+Do you have a resource you want to share?
+
+Let’s support each other! 💛
+
+If you have other resources you’d like to recommend, feel free to open a pull request or create an issue.
+
 ### Installation
 
 We are using [Docsify](https://docsify.js.org/) as my static site generator to showcase all the resources in this repo.
