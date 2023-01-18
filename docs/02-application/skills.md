@@ -1,4 +1,4 @@
-# Listing Skills
+## Skills
 
 > Ensuring whoever looks through your profile has a good idea of what you have experience in is pretty important.
 

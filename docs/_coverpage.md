@@ -1,10 +1,10 @@
-<img src="_images/icon.svg" width="50">
+<img src="img/icon.svg" width="50">
 
-# hire-me
+# Eng Job Search
 
-> A path to getting an awesome tech gig.
+> Resources to help you on your software engineering job search.
 
-[GitHub](https://github.com/fvcproductions/hire-me)
-[Get Started](#hire-me)
+[GitHub](https://github.com/FrancesCoronel/hire-me)
+[Get Started](#eng-job-search)
 
 ![color](#f0f0f0)
