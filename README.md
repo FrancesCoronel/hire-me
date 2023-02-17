@@ -42,3 +42,4 @@ Or just [create an issue](https://github.com/francescoronel/hire-me/issues) - an
 - [Isabel Costa](https://github.com/isabelcosta)
 - [Monica Powell](https://github.com/m0nica)
 - [Boopathi Kumar](https://github.com/boopathikumar018)
+- [Arvii Choudhary](https://github.com/ArviiChoudhary)
