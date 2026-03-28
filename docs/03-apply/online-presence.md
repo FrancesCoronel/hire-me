@@ -6,11 +6,11 @@
 
 ## Personal Website
 
-http://fvcproductions.com
+https://francescoronel.com
 
 ## GitHub
 
-http://github.com/fvcproductions
+https://github.com/FrancesCoronel
 
 ## Behance
 
@@ -30,7 +30,7 @@ http://scribd.com/fvcproductions
 
 ## LinkedIn
 
-http://linkedin.com/in/fvcproductions
+https://linkedin.com/in/francescoronel
 
 ## Gravatar
 

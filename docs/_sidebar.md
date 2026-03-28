@@ -16,4 +16,4 @@
   - [Following Up](/04-interview/follow-up)
 - [Step 5 - Accept 🎉](/05-accept/README)
   - [Negotiating Salary](05-accept/salary)
-- [Contributing](https://github.com/fvcproductions/hire-me/blob/master/CONTRIBUTING.md)
+- [Contributing](https://github.com/FrancesCoronel/hire-me/blob/master/CONTRIBUTING.md)
