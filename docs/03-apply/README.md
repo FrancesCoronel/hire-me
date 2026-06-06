@@ -39,3 +39,11 @@ I would recommend using an online platform like [Creddle](http://creddle.io/) to
 [Canva](https://www.canva.com/create/resumes/) also offers a free way to create a compelling resume design that organizes all your credentials in an impressive run-through.
 
 ![Canva](https://i.imgur.com/HaiOjv1.png)
+
+### Resume Worded
+
+[Resume Worded](https://resumeworded.com/) provides free instant feedback on your resume and LinkedIn profile to help you land more interviews.
+
+### FAANG Tech Leads
+
+[FAANG Tech Leads](https://www.faangtechleads.com/) offers resume review services from engineers at FAANG companies to help you stand out.
