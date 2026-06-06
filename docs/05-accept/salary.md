@@ -8,6 +8,14 @@ These are a few sentences I took from the book, [Fearless Salary Negotiation](ht
 >
 > I want this move to be a big step forward for me in terms of both responsibility and compensation.
 
+## Salary Research Tools
+
+Before negotiating, research what the market pays for your role:
+
+- [Levels.fyi](https://www.levels.fyi/jobs/location/united-states/title/software-engineer/level/mid_staff?workArrangements=remote) - Compensation data and job listings at tech companies
+- [Comprehensive.io](https://www.comprehensive.io/) - Pay range tracker crowdsourced from real employees
+- [Rora](https://www.teamrora.com/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=) - Salary negotiation coaching for tech professionals
+
 ## Fearless Salary Negotiaton
 
 To really learn how to negotiate your salary, I would read that book [Fearless Salary Negotiation](http://fearlesssalarynegotiation.com/).

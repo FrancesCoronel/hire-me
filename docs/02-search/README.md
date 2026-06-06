@@ -42,7 +42,7 @@ Here are some websites you can use when looking for open positions.
 
 ---
 
-- [Angel.co Jobs](https://angel.co/jobs)
+- [Angel.co Jobs](https://angel.co/jobs) / [Wellfound](https://wellfound.com/jobs)
 - [BainCapital Ventures](http://jobs.baincapitalventures.com/) 💸️
 - [Behance Jobs](https://www.behance.net/joblist) 🎨
 - [BetaList Jobs](https://betalist.com/jobs)
@@ -78,6 +78,17 @@ Here are some websites you can use when looking for open positions.
 - [Women Who Code Jobs](https://www.womenwhocode.com/jobs) 🚺️
 - [YCombinator Jobs](https://news.ycombinator.com/jobs) 💸️
 - [ZipRecruiter](https://www.ziprecruiter.com/)
+- [Otta](https://otta.com/) - The better way to find a job in tech
+- [Hired](https://hired.com/) - Tech job hunting marketplace
+- [Tribaja](https://www.tribaja.co/) - Job board for diverse tech talent
+- [Elpha Talent Pool](https://elpha.com/talent-pool) - Let your dream role come to you 🚺️
+- [cord](https://cord.co/) - The messaging tool for finding work
+- [Tech Ladies](https://www.hiretechladies.com/) - Hire more women in tech 🚺️
+- [Hatchways](https://www.hatchways.io/) - Connecting developers with companies
+- [Responsible Tech Job Board](https://alltechishuman.org/responsible-tech-job-board) - All Tech Is Human
+- [Who's Still Hiring?](https://stillhiring.today/) - Find a tech job with open roles
+- [Work at a Startup](https://www.workatastartup.com/) - YC-backed startup jobs 💸️
+- [Levels.fyi Jobs](https://www.levels.fyi/jobs/location/united-states/title/software-engineer/level/mid_staff?workArrangements=remote) - Software engineering jobs with compensation data
 
 ## Job Tracking
 
@@ -118,3 +129,7 @@ The [JobHero](https://gojobhero.com/app/) dashboard allows you to
 [Trello](https://trello.com/) keeps track of everything, from the big picture to the minute details.
 
 ![Trello](https://i.imgur.com/U3IMAlX.png)
+
+### Comprehensive.io
+
+[Comprehensive.io](https://www.comprehensive.io/) is a pay range tracker that helps you understand compensation at companies before you apply.

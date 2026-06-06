@@ -160,3 +160,18 @@ With [Pramp](https://www.pramp.com/#/), you can practice coding interviews live 
 ## Further Resources
 
 - [Udacity Career Resource Center](https://career-resource-center.udacity.com/)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+- [Tech Interview Handbook Portal](https://app.techinterviewhandbook.org/) - Interactive portal for the Tech Interview Handbook
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - Front end interview preparation for busy engineers
+- [ByteByteGo](https://bytebytego.com/) - System design interview prep
+- [AlgoMonster](https://algo.monster/) - Conquer the coding interview; master algorithms and data structures
+- [Design Gurus](https://designgurus.org/home) - Ace the system design and coding interview
+- [FAANG Tech Leads](https://www.faangtechleads.com/) - Software engineer resume review
+- [Interview Cake](https://www.interviewcake.com/) - Programming interview questions and job offer prep
+- [CodeSignal Interview Practice](https://codesignal.com/developers/interview-practice/) - Practice for technical interviews
+- [CoderPad](https://coderpad.io/) - Live coding interview platform
+- [No Whiteboard](https://www.nowhiteboard.org/) - Companies that don't use whiteboard interviews
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process
+- [freeCodeCamp - How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
+- [Netflix Pathways Bootcamp](https://netflix.edx.org/) - Netflix engineering bootcamp program
+- [A Senior Engineer's Guide to FAANG Interviews](https://interviewing.io/guides/hiring-process) - Comprehensive interview process guide
