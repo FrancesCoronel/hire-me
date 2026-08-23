@@ -59,6 +59,7 @@ Here are some websites you can use when looking for open positions.
 - [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) 🎓 - daily-updated Canadian student and recent-grad roles across internships, co-ops, new grad, junior, and entry-level positions
 - [Hiring Without Whiteboards - GitHub Repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Indeed](https://www.indeed.com/)
+- [Jobs in JavaScript](https://jobsinjs.com/) - daily-updated JavaScript, TypeScript and Node.js roles aggregated from company career pages
 - [Landing.jobs](https://landing.jobs/)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
