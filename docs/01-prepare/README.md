@@ -165,6 +165,7 @@ With [Pramp](https://www.pramp.com/#/), you can practice coding interviews live 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - Front end interview preparation for busy engineers
 - [ByteByteGo](https://bytebytego.com/) - System design interview prep
 - [AlgoMonster](https://algo.monster/) - Conquer the coding interview; master algorithms and data structures
+- [PracHub - Coding Interview Practice: The Ultimate 2026 Plan](https://prachub.com/resources/coding-interview-practice-the-ultimate-2026-plan) - A structured framework for selecting and sequencing coding interview practice problems
 - [Design Gurus](https://designgurus.org/home) - Ace the system design and coding interview
 - [FAANG Tech Leads](https://www.faangtechleads.com/) - Software engineer resume review
 - [Interview Cake](https://www.interviewcake.com/) - Programming interview questions and job offer prep
