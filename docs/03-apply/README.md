@@ -44,6 +44,10 @@ I would recommend using an online platform like [Creddle](http://creddle.io/) to
 
 [Resume Worded](https://resumeworded.com/) provides free instant feedback on your resume and LinkedIn profile to help you land more interviews.
 
+### ResumeAI
+
+[ResumeAI](https://withresumeai.com/) is an AI resume builder with a free ATS checker (3 checks a day with no account). The open [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) dataset covers 738 large employers (704 portal-verified; Workday 37.9%).
+
 ### FAANG Tech Leads
 
 [FAANG Tech Leads](https://www.faangtechleads.com/) offers resume review services from engineers at FAANG companies to help you stand out.
