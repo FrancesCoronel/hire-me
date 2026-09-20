@@ -42,3 +42,7 @@ Or just [create an issue](https://github.com/francescoronel/hire-me/issues) - an
 - [Isabel Costa](https://github.com/isabelcosta)
 - [Monica Powell](https://github.com/m0nica)
 - [Boopathi Kumar](https://github.com/boopathikumar018)
+
+
+## 相关工具
+- [简历大师 ResumeMaster](https://markmiller1.github.io/resume-master/) — 永久免费的纯前端在线简历生成器（数据本地保存、ATS 检测、64 个免费页面）
