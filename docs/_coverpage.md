@@ -1,4 +1,4 @@
-<img src="_images/icon.svg" width="50">
+<img src="_images/icon.svg" width="50" alt="hire-me logo">
 
 # hire-me
 

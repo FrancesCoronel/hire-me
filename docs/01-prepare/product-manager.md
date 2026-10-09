@@ -32,7 +32,7 @@ Do you work best my getting a question in your inbox every week? Try out these n
 
 ### Product Management Exercises
 
-https://productmanagementexercises.com/
+<https://productmanagementexercises.com/>
 
 ## GitHub Repos
 
