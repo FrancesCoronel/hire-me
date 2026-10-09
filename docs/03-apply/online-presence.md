@@ -12,14 +12,6 @@
 
 <https://github.com/FrancesCoronel>
 
-## Behance
-
-<http://behance.net/fvcproductions>
-
-## Speaker Deck
-
-<http://speakerdeck.com/fvcproductions>
-
 ## SlideShare
 
 <http://slideshare.net/fvcproductions>

@@ -18,8 +18,6 @@
 
 [Cracking the PM Interview](http://a.co/9VIoAj2) is a comprehensive book about landing a product management role in a startup or bigger tech company written by the famous [Gayle Laakmann McDowell](http://www.gayle.com/) who also wrote [Cracking the Coding Interview](http://a.co/9VsLUXA).
 
-![Cracking the PM Interview](https://ebook4expert.com/wp-content/uploads/2016/11/Cracking-the-PM-Interview.jpg)
-
 ### Intercom on Product Management
 
 [Intercom on Product Management](https://www.intercom.com/books/product-management) is a collection of lessons that offers Intercom's guidance on the tough decisions you will face as a product manager.
