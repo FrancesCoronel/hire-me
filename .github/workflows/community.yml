@@ -1,0 +1,12 @@
+name: Community
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+jobs:
+  triage:
+    uses: FrancesCoronel/workflows/.github/workflows/community-triage.yml@v1
+    permissions:
+      pull-requests: write
+      issues: write
