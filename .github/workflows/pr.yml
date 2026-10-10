@@ -16,8 +16,9 @@ jobs:
   ci:
     uses: FrancesCoronel/workflows/.github/workflows/ci-markdown.yml@v1
     with:
-      # Work at a Startup rejects link checkers with 406 but is up.
-      lychee-args: --exclude workatastartup.com
+      # Work at a Startup and Key Values block link checkers but are up.
+      # The docsify sidebar uses site routes, not file paths.
+      lychee-args: --exclude workatastartup.com --exclude keyvalues.com --exclude-path docs/_sidebar.md
 
   dependabot:
     needs: ci
