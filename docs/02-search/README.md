@@ -11,7 +11,6 @@
 - [Job Tracking](#job-tracking)
   - [Airtable](#airtable)
   - [Huntr](#huntr)
-  - [JobHero](#jobhero)
   - [Trello](#trello)
 
 <!-- /TOC -->
@@ -42,7 +41,6 @@ Here are some websites you can use when looking for open positions.
 ---
 
 - [Angel.co Jobs](https://angel.co/jobs) / [Wellfound](https://wellfound.com/jobs)
-- [BainCapital Ventures](http://jobs.baincapitalventures.com/) 💸️
 - [Behance Jobs](https://www.behance.net/joblist) 🎨
 - [BetaList Jobs](https://betalist.com/jobs)
 - [CrunchBoard](http://www.crunchboard.com/)
@@ -97,16 +95,6 @@ Instead of going through the hassle of using Excel, I would recommending trying 
 [Huntr](http://huntr.co/) keeps track of every detail about your job applications - notes, dates, tasks, job descriptions, salaries, locations, company data and more.
 
 ![Huntr](https://huntr.co/images/jumbo_header_board_2x.png)
-
-### JobHero
-
-The [JobHero](https://gojobhero.com/app/) dashboard allows you to
-
-- save jobs from across the web and track your application progress,
-- set reminders for follow ups, deadlines, and due dates and
-- upload and tag documents, notes, and contact information.
-
-![JobHero - 2017](https://i.imgur.com/1GUUZfP.png)
 
 ### Trello
 
