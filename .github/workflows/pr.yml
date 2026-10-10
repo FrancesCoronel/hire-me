@@ -1,0 +1,25 @@
+name: PR
+
+on:
+  pull_request:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pr-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    uses: FrancesCoronel/workflows/.github/workflows/ci-markdown.yml@v1
+
+  dependabot:
+    needs: ci
+    if: github.event_name == 'pull_request' && github.event.pull_request.user.login == 'dependabot[bot]'
+    uses: FrancesCoronel/workflows/.github/workflows/dependabot-automerge.yml@v1
+    permissions:
+      contents: write
+      pull-requests: write
