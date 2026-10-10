@@ -99,7 +99,7 @@ It looks very promising but keep in mind that the program does cost $4.5K if you
 
 ### CodeFights
 
-[CodeFights](https://codefights.com/) allows you to practice for interviews using real questions on need-to-know topics and then gives you the opportunity to get matched with a hiring partner when you're ready for a new job.
+[CodeFights](https://codesignal.com/) (now CodeSignal) allows you to practice for interviews using real questions on need-to-know topics and then gives you the opportunity to get matched with a hiring partner when you're ready for a new job.
 
 ![CodeFights](https://i.imgur.com/eKveVjN.png)
 
@@ -135,7 +135,7 @@ It looks very promising but keep in mind that the program does cost $4.5K if you
 
 ### InterviewBit
 
-[InterviewBit](http://www.interviewbit.coms) offers the abilit to learn and practice on almost all coding interview questions asked historically and get referred to the best tech companies.
+[InterviewBit](https://www.interviewbit.com/) offers the abilit to learn and practice on almost all coding interview questions asked historically and get referred to the best tech companies.
 
 ![InterviewBit](https://i.imgur.com/8CG5cHK.png)
 
@@ -159,9 +159,7 @@ With [Pramp](https://www.pramp.com/#/), you can practice coding interviews live 
 
 ## Further Resources
 
-- [Udacity Career Resource Center](https://career-resource-center.udacity.com/)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
-- [Tech Interview Handbook Portal](https://app.techinterviewhandbook.org/) - Interactive portal for the Tech Interview Handbook
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) - Front end interview preparation for busy engineers
 - [ByteByteGo](https://bytebytego.com/) - System design interview prep
 - [AlgoMonster](https://algo.monster/) - Conquer the coding interview; master algorithms and data structures
@@ -170,8 +168,7 @@ With [Pramp](https://www.pramp.com/#/), you can practice coding interviews live 
 - [Interview Cake](https://www.interviewcake.com/) - Programming interview questions and job offer prep
 - [CodeSignal Interview Practice](https://codesignal.com/developers/interview-practice/) - Practice for technical interviews
 - [CoderPad](https://coderpad.io/) - Live coding interview platform
-- [No Whiteboard](https://www.nowhiteboard.org/) - Companies that don't use whiteboard interviews
+- [No Whiteboard](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't use whiteboard interviews
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process
 - [freeCodeCamp - How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
-- [Netflix Pathways Bootcamp](https://netflix.edx.org/) - Netflix engineering bootcamp program
 - [A Senior Engineer's Guide to FAANG Interviews](https://interviewing.io/guides/hiring-process) - Comprehensive interview process guide

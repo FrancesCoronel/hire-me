@@ -11,8 +11,6 @@
 - [Job Tracking](#job-tracking)
   - [Airtable](#airtable)
   - [Huntr](#huntr)
-  - [Indeed](#indeed)
-  - [JobHero](#jobhero)
   - [Trello](#trello)
 
 <!-- /TOC -->
@@ -43,18 +41,14 @@ Here are some websites you can use when looking for open positions.
 ---
 
 - [Angel.co Jobs](https://angel.co/jobs) / [Wellfound](https://wellfound.com/jobs)
-- [BainCapital Ventures](http://jobs.baincapitalventures.com/) 💸️
 - [Behance Jobs](https://www.behance.net/joblist) 🎨
 - [BetaList Jobs](https://betalist.com/jobs)
-- [Coding Internships](https://codinginternships.com/) 🎓
 - [CrunchBoard](http://www.crunchboard.com/)
 - [DesignerJobs](https://www.designerjobs.co/) 🎨
 - [Dev.to Listings](https://dev.to/listings)
-- [Digital.NYC](http://www.digital.nyc/jobs)
 - [DiversifyTech.co](https://www.diversifytech.co/job-board/)
 - [Dribbble Jobs](https://dribbble.com/jobs) 🎨
 - [GarysGuide](http://www.garysguide.com/jobs)
-- [GitHub Jobs](https://jobs.github.com/positions)
 - [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
 - [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) 🎓 - daily-updated Canadian student and recent-grad roles across internships, co-ops, new grad, junior, and entry-level positions
 - [Hiring Without Whiteboards - GitHub Repo](https://github.com/poteto/hiring-without-whiteboards)
@@ -64,26 +58,18 @@ Here are some websites you can use when looking for open positions.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
 - [MLH Career Lab](https://careerlab.mlh.io/) 🎓
-- [Outreachy](https://www.gnome.org/outreachy/)
-- [PandaJobs](http://panda.jobs/)
+- [Outreachy](https://www.outreachy.org/)
 - [PowerToFly](https://powertofly.com/jobs/)
-- [ProductHire](https://producthire.co/)
 - [Sequoia](https://www.sequoiacap.com/jobs) 💸️
 - [SimplyHired](http://www.simplyhired.com/local-jobs/new-york-ny)
 - [Slack at Work](https://slackatwork.com/)
-- [StackOverflow Jobs](http://stackoverflow.com/jobs)
-- [SudoHoot Jobs](http://jobs.sudohoot.com/)
-- [Switch](http://www.switchapp.com/)
 - [The Muse](https://www.themuse.com/)
-- [Triblebyte](https://triplebyte.com) ️
 - [We Work Remotely](https://weworkremotely.com/)
-- [Women Who Code Jobs](https://www.womenwhocode.com/jobs) 🚺️
 - [YCombinator Jobs](https://news.ycombinator.com/jobs) 💸️
 - [ZipRecruiter](https://www.ziprecruiter.com/)
 - [Otta](https://otta.com/) - The better way to find a job in tech
 - [Hired](https://hired.com/) - Tech job hunting marketplace
 - [Tribaja](https://www.tribaja.co/) - Job board for diverse tech talent
-- [Elpha Talent Pool](https://elpha.com/talent-pool) - Let your dream role come to you 🚺️
 - [cord](https://cord.co/) - The messaging tool for finding work
 - [Tech Ladies](https://www.hiretechladies.com/) - Hire more women in tech 🚺️
 - [Hatchways](https://www.hatchways.io/) - Connecting developers with companies
@@ -109,22 +95,6 @@ Instead of going through the hassle of using Excel, I would recommending trying 
 [Huntr](http://huntr.co/) keeps track of every detail about your job applications - notes, dates, tasks, job descriptions, salaries, locations, company data and more.
 
 ![Huntr](https://huntr.co/images/jumbo_header_board_2x.png)
-
-### Indeed
-
-[Indeed's Chrome Extension](https://chrome.indeed.com/) is a free service that helps you manage the status of your job applications on Indeed and other sites across the web.
-
-It knows when to save your jobs, the jobs you applied to and even jobs that you interviewed and got hired for within one location.
-
-### JobHero
-
-The [JobHero](https://gojobhero.com/app/) dashboard allows you to
-
-- save jobs from across the web and track your application progress,
-- set reminders for follow ups, deadlines, and due dates and
-- upload and tag documents, notes, and contact information.
-
-![JobHero - 2017](https://i.imgur.com/1GUUZfP.png)
 
 ### Trello
 
