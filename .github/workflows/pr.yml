@@ -21,7 +21,7 @@ jobs:
       lychee-args: --exclude workatastartup.com --exclude keyvalues.com --exclude-path docs/_sidebar.md
 
   security:
-    uses: FrancesCoronel/workflows/.github/workflows/security.yml@claude/quality-gates
+    uses: FrancesCoronel/workflows/.github/workflows/security.yml@v1
 
   dependabot:
     needs: [ci, security]
