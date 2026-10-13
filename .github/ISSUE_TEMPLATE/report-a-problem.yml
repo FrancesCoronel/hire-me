@@ -1,0 +1,31 @@
+name: Report a problem
+description: A broken link, outdated advice, or something wrong with the site 🛠️
+title: "Problem: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What's wrong?
+      options:
+        - Broken or dead link
+        - Outdated or wrong information
+        - The site doesn't load or display correctly
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page URL or the file in `docs/`.
+      placeholder: https://francescoronel.github.io/hire-me/#/03-apply/
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What you saw, and what it should say or link to instead.
+    validations:
+      required: true
