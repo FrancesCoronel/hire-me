@@ -1,0 +1,39 @@
+name: Suggest a resource
+description: Suggest a resource or piece of advice for the guide 📚
+title: "Resource: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Prepare
+        - Search
+        - Apply
+        - Interview
+        - Accept
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://example.com/resource
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why it helps
+      description: One or two sentences on what job seekers get from it.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the guide and this resource isn't already there
+          required: true
+        - label: I've mentioned any affiliation I have with this resource in the description
