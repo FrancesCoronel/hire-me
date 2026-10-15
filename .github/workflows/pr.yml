@@ -15,9 +15,16 @@ concurrency:
 jobs:
   ci:
     uses: FrancesCoronel/workflows/.github/workflows/ci-markdown.yml@v1
+    with:
+      # Work at a Startup and Key Values block link checkers but are up.
+      # The docsify sidebar uses site routes, not file paths.
+      lychee-args: --exclude workatastartup.com --exclude keyvalues.com --exclude-path docs/_sidebar.md
+
+  security:
+    uses: FrancesCoronel/workflows/.github/workflows/security.yml@v1
 
   dependabot:
-    needs: ci
+    needs: [ci, security]
     if: github.event_name == 'pull_request' && github.event.pull_request.user.login == 'dependabot[bot]'
     uses: FrancesCoronel/workflows/.github/workflows/dependabot-automerge.yml@v1
     permissions:
