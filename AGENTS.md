@@ -22,3 +22,5 @@ A guide to landing a tech job, published with [docsify](https://docsify.js.org) 
 ## Checks
 
 CI comes from the shared workflows in [FrancesCoronel/workflows](https://github.com/FrancesCoronel/workflows) (Markdown lint and link checks).
+
+To preview the site locally, run `npx docsify-cli serve docs` and open `http://localhost:3000`. Site config (theme, plugins, sidebar) is in `docs/index.html`; keep its CDN scripts pinned to a major version.
