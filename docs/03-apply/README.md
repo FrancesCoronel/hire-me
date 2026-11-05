@@ -41,3 +41,7 @@ Lastly, print out your resume to see if the formatting is appropriate on both ph
 ### FAANG Tech Leads
 
 [FAANG Tech Leads](https://www.faangtechleads.com/) offers resume review services from engineers at FAANG companies to help you stand out.
+
+### JobEmerge
+
+[JobEmerge](https://www.jobemerge.work) is an AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
