@@ -3,6 +3,7 @@
   - [Product Manager?](/01-prepare/product-manager)
 - [Step 2 - Search 🔎](/02-search/README)
   - [Company Research](/02-search/research)
+  - [Conference Scholarships](/02-search/conference-scholarships)
 - [Step 3 - Apply 📝](/03-apply/README)
   - [Online Presence](/03-apply/online-presence)
   - [Listing Skills](/03-apply/skills)
