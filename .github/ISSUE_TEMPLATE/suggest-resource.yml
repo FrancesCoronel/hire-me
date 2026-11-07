@@ -7,6 +7,7 @@ body:
     id: section
     attributes:
       label: Section
+      description: Conference scholarships and travel grants go under Search.
       options:
         - Prepare
         - Search
@@ -35,5 +36,7 @@ body:
       label: Checks
       options:
         - label: I searched the guide and this resource isn't already there
+          required: true
+        - label: The link is live and goes straight to the resource (no referral or tracking links)
           required: true
         - label: I've mentioned any affiliation I have with this resource in the description
