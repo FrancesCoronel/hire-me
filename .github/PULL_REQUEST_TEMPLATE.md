@@ -19,7 +19,6 @@ Please read the [contributing guidelines](https://github.com/FrancesCoronel/hire
 ### For every PR
 
 - [ ] I proofread my changes
-- [ ] If I used AI tools, I reviewed every change myself and checked that the links work
 - [ ] The markdownlint and link checks pass
 
 ### Credits
