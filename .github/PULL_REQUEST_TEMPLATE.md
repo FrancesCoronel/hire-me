@@ -1,5 +1,7 @@
 <!-- Thanks for contributing! 🙏🏽 Please keep it to one resource or one change per PR. -->
 
+Please read the [contributing guidelines](https://github.com/FrancesCoronel/hire-me/blob/master/CONTRIBUTING.md) first.
+
 ## What does this PR change?
 
 <!-- A sentence or two. Link the issue if there is one, like "Closes #123". -->
