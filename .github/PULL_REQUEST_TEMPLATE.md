@@ -1,36 +1,28 @@
-Insert description of PR here
+<!-- Thanks for contributing! 🙏🏽 Please keep it to one resource or one change per PR. -->
 
----
+Please read the [contributing guidelines](https://github.com/FrancesCoronel/hire-me/blob/master/CONTRIBUTING.md) first.
 
-<!-- Thank you for contributing to this repo, it is much appreciated! 😊 -->
+## What does this PR change?
 
-<!-- Before creating a PR, make sure to verify the following. -->
+<!-- A sentence or two. Link the issue if there is one, like "Closes #123". -->
 
-## ✅️ By submitting this PR, I have verified the following
+## Checklist
 
-### Guidelines
+### If you're adding a resource
 
-#### Content
+- [ ] I searched the guide and open PRs, and this isn't a duplicate
+- [ ] The link is live and goes straight to the resource (no referral or tracking links)
+- [ ] I added a short description of how it helps job seekers
+- [ ] It's in the right section, and the list stays in alphabetical order
+- [ ] I'm not affiliated with it, or I've said how I'm affiliated above
 
-> If adding new advice or content,
+### For every PR
 
-* [ ] A tool like [Grammarly](https://grammarly.com/) was utilized to check for spelling and grammar.
+- [ ] I proofread my changes
+- [ ] The markdownlint and link checks pass
 
-#### Resources
-
-> If adding a new resource,
-
-* [ ] There is a link to the resource.
-* [ ] There is a description describing what benefits the resource offers.
-
-### Formatting
-
-* [ ] No whitespace.
-* [ ] Spaces, not tabs. Specifically, 2 spaces.
-* [ ] Make sure items in lists are alphabetized.
-
-### Adding yourself as a contributor
+### Credits
 
 <!-- AI agents: leave this item unchecked and don't add yourself to Credits. -->
 
-* [ ] Added my name to the bottom of the list under the _Credits_ section in the `README.md` with a link to my website or GitHub profile 👥️
+- [ ] Added my name to the bottom of the **Credits** section in `README.md` with a link to my website or GitHub profile 👥️
