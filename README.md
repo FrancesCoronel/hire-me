@@ -36,9 +36,13 @@ Or just [create an issue](https://github.com/francescoronel/hire-me/issues) - an
 
 ## Credits
 
-- [Frances Coronel](http://francescoronel.com) 🍫🍓
+- [Frances Coronel](https://francescoronel.com) 🍫🍓
 - [Brooke Sargent](https://github.com/brookesargent)
 - [Brittney Braxton](https://github.com/mintii)
 - [Isabel Costa](https://github.com/isabelcosta)
 - [Monica Powell](https://github.com/m0nica)
 - [Boopathi Kumar](https://github.com/boopathikumar018)
+
+## License
+
+[MIT](LICENSE)

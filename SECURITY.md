@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Only the latest version of the [Hire Me guide](https://francescoronel.github.io/hire-me/), built from `master`, is maintained.
+Only the latest version of the [Hire Me guide](https://engjobsearch.com), built from `master`, is maintained.
 
 ## Reporting a Vulnerability
 
