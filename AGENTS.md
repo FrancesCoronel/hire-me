@@ -4,7 +4,7 @@ Guidance for AI coding agents (Claude Code, Copilot, Codex, and others) working 
 
 ## What this repo is
 
-A guide to landing a tech job, published with [docsify](https://docsify.js.org) at [francescoronel.github.io/hire-me](https://francescoronel.github.io/hire-me/). All content is Markdown in `docs/`, organized by stage: `01-prepare`, `02-search`, `03-apply`, `04-interview`, `05-accept`. Navigation lives in `docs/_sidebar.md`.
+A guide to landing a tech job, published with [docsify](https://docsify.js.org) at [engjobsearch.com](https://engjobsearch.com). All content is Markdown in `docs/`, organized by stage: `01-prepare`, `02-search`, `03-apply`, `04-interview`, `05-accept`. Navigation lives in `docs/_sidebar.md`.
 
 ## Adding content or resources
 
