@@ -27,6 +27,7 @@
   - [InterviewBit](#interviewbit)
   - [Interviewing.io](#interviewingio)
   - [LeetCode](#leetcode)
+  - [Nyrion](#nyrion)
   - [Pramp](#pramp)
 - [Further Resources](#further-resources)
 
@@ -150,6 +151,10 @@ It looks very promising but keep in mind that the program does cost $4.5K if you
 [LeetCode](https://leetcode.com) is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 ![LeetCode](https://i.imgur.com/UFncE2a.png)
+
+### Nyrion
+
+[Nyrion](https://nyrion.ai) lets you practice AI-assisted coding interviews in a multi-file codebase, with an AI assistant in the editor and an interviewer who asks about your code.
 
 ### Pramp
 
