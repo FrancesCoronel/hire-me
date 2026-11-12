@@ -10,47 +10,27 @@ This list used to live in [DiversifyMe](https://github.com/FrancesCoronel/divers
 
 ### USA
 
-- [Abstractions](https://abstractions.io/)
-- [AffectConf](https://affectconf.com/scholarships/)
 - [AfroTech](https://experience.afrotech.com/)
 - [AWS re:Invent](https://reinvent.awsevents.com/)
 - [BAM Scholarship at Microsoft](https://www.microsoft.com/en-us/diversity/programs/bam-scholarship)
 - [Clarity](https://www.clarityconf.com/)
 - [Code Sync](https://codesync.global/)
-- [Codeland Conf](http://codelandconf.com/)
-- [Codemotion Conference Madrid](https://conferences.codemotion.com/madrid/inclusion-y-diversidad/)
-- [CSS Day](https://cssday.nl)
-- [Deconstruct](https://www.deconstructconf.com/)
-- [DockerCon](https://dockercon.com/)
-- [EmberConf](https://emberconf.com/)
 - [GitHub Universe](https://githubuniverse.com/)
 - [Google Travel Grants](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships)
 - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
 - [Harvard WECode](https://www.harvardwecode.com/)
 - [HOLA Scholarship at Microsoft](https://www.microsoft.com/en-us/diversity/programs/hola-scholarship)
-- [JSConf Hawai'i](https://www.jsconfhi.com/)
 - [JSConf North America](https://events.linuxfoundation.org/jsconf-north-america/attend/scholarships-travel-funding/)
-- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/diversity-scholarships)
+- [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/scholarships-travel-funding/)
+- [LeadDev](https://leaddev.com/)
 - [Microsoft Disability Scholarship](https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship)
-- [MongoDB World](https://www.mongodb.com/mongodb-diversity-scholarship)
-- [O'Reilly Conferences](http://www.oreilly.com/conferences/diversity-application.csp)
 - [Out 4 Undergrad Tech](https://www.outforundergrad.org/)
-- [PerfMatters Conf](https://perfmattersconf.com/)
-- [Pioneer Grid](https://pioneergrid.com/)
 - [PyCon](https://us.pycon.org/)
 - [PyData](https://pydata.org/diversity-inclusion/)
-- [Racketfest](https://racketfest.com/)
-- [React.js Conf](https://conf.reactjs.org/)
-- [ReasonConf](https://www.reason-conf.com/)
 - [RubyConf](http://rubyconf.org/)
 - [SIGNAL](https://signal.twilio.com/)
-- [Spring I/O](https://springio.net/)
-- [Strange Loop](http://www.thestrangeloop.com/opportunity.html)
 - [TAPIA Celebration of Diversity in Computing](https://tapiaconference.cmd-it.org/)
-- [Tech Inclusion Conferences](https://techinclusion.co/)
-- [The LEad Developer](https://theleaddeveloper.com/)
 - [Thunder Plains](http://thunderplainsconf.com/)
-- [trySwift](https://www.tryswift.co/)
 - [Women at Microsoft Scholarship](https://www.microsoft.com/en-us/diversity/women-at-microsoft-scholarship)
 - [Women in Cybersecurity Conference](https://www.wicys.org/conference)
 - [Wonder Woman Tech](https://wonderwomentech.com/)
@@ -58,23 +38,20 @@ This list used to live in [DiversifyMe](https://github.com/FrancesCoronel/divers
 ### Canada
 
 - [AccessConference](https://accessconference.ca/)
-- [DevOps Toronto](https://devopsto.com/#diversity-scholarship)
 
 ## Europe
 
-- [ColdFront](https://coldfront.co/)
-- [CSSconf EU](https://cssconf.eu/)
+- [Codemotion Conference Madrid](https://conferences.codemotion.com/madrid/inclusion-y-diversidad/)
+- [CSS Day](https://cssday.nl)
 - [DjangoCon EU](https://djangocon.eu/)
 - [Drupal Mountain Camp](https://drupalmountaincamp.ch/)
 - [ffconf](https://ffconf.org/)
-- [JSConf EU](https://jsconf.eu/)
-- [React Summit](https://medium.com/@ReactAmsterdam/react-summit-2020-diversity-scholarships-now-available-dfaaa9cfc6d3)
-- [useR! Conference](http://user2019.r-project.org/)
+- [Spring I/O](https://springio.net/)
+- [useR! Conference](https://user2026.r-project.org/additional/diversity_scholarship.html)
 
 ## Other Resources
 
-- [Diversify Tech - Tech Conference Scholarships](https://www.diversifytech.co/tech-conference-scholarships)
-- [DiversityTickets.org](https://diversitytickets.org/)
+- [Diversify Tech - Tech Conference Scholarships](https://www.diversifytech.com/tech-conference-scholarships)
 
 ## DiversifyMe Contributors
 
