@@ -58,6 +58,7 @@ Here are some websites you can use when looking for open positions.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Mashable Job Board](http://jobs.mashable.com/jobs/search/results)
 - [MLH Career Lab](https://careerlab.mlh.io/) 🎓
+- [New Grad Developer Jobs and Internships - GitHub Repo](https://github.com/DPWonder/new-grad-developer-jobs-and-internships) 🎓 - entry-level developer jobs and internships in the US and Canada posted in the last 7 days, from employers' own career pages
 - [Outreachy](https://www.outreachy.org/)
 - [PowerToFly](https://powertofly.com/jobs/)
 - [Sequoia](https://www.sequoiacap.com/jobs) 💸️
