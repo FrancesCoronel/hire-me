@@ -2,7 +2,8 @@
 
 A path to getting an awesome tech gig
 
-> View this project at [`engjobsearch.com`](https://engjobsearch.com)
+> [!IMPORTANT]
+> **This guide has moved to [latina.dev/job-search](https://latina.dev/job-search).** This repo is archived and kept for its history. To suggest a change or a new resource, open a pull request on [Latina-Dev/latina-dev](https://github.com/Latina-Dev/latina-dev/tree/main/data/job-search). Old links to engjobsearch.com redirect to the new guide.
 
 ![hire-me](https://i.imgur.com/J1fCB2I.png)
 
@@ -24,15 +25,7 @@ docsify serve docs
 
 ## Contributing
 
-> To get started...
-
-1. 🍴 [Fork this repo](https://github.com/francescoronel/hire-me#fork-destination-box)
-2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](/CONTRIBUTING.md)
-3. 👥 Add yourself as a contributor under the credits section
-4. 🔧 [Open a new pull request](https://github.com/francescoronel/hire-me/compare)
-5. 🎉 Get your pull request approved - success!
-
-Or just [create an issue](https://github.com/francescoronel/hire-me/issues) - any little bit of help counts! 😊
+This repo no longer takes contributions. The guide's content now lives in [`data/job-search`](https://github.com/Latina-Dev/latina-dev/tree/main/data/job-search) in the Latina Dev repo, and pull requests there are welcome.
 
 ## Credits
 
