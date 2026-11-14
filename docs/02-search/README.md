@@ -10,6 +10,7 @@
 - [Job Boards](#job-boards)
 - [Job Tracking](#job-tracking)
   - [Airtable](#airtable)
+  - [Applylane](#applylane)
   - [Huntr](#huntr)
   - [Trello](#trello)
 
@@ -89,6 +90,10 @@ Airtable is my favorite option.
 Instead of going through the hassle of using Excel, I would recommending trying out [Airtable](http://airtable.com) instead which supports a Kanban like board and has a better user experience than Excel.
 
 ![Airtable - 2017](https://i.imgur.com/JNN772I.png?1)
+
+### Applylane
+
+[Applylane](https://applylane.co/) is a free job application tracker. Its browser extension saves jobs from LinkedIn, Indeed and other job sites, and you can forward job emails so new applications, interviews and rejections reach your board. No cap on applications.
 
 ### Huntr
 
