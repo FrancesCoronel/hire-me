@@ -43,6 +43,7 @@ Here are some websites you can use when looking for open positions.
 - [Angel.co Jobs](https://angel.co/jobs) / [Wellfound](https://wellfound.com/jobs)
 - [Behance Jobs](https://www.behance.net/joblist) 🎨
 - [BetaList Jobs](https://betalist.com/jobs)
+- [CookLLM](https://cookllm.com/en/jobs/match) - New AI jobs and hiring posts, scored against your resume
 - [CrunchBoard](http://www.crunchboard.com/)
 - [DesignerJobs](https://www.designerjobs.co/) 🎨
 - [Dev.to Listings](https://dev.to/listings)
