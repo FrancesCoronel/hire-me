@@ -28,6 +28,10 @@ Always take time to edit and proofread your resume. When you've polished it to a
 
 Lastly, print out your resume to see if the formatting is appropriate on both physically and digitally. There have been times I worked on an awesome resume, only to find my font prints out very small.
 
+### AI Engineer Resume Examples
+
+[AI Engineer Resume Examples](https://github.com/landedjobs/ai-engineer-resume-examples) is a free guide to resumes for AI engineer roles: 20 before-and-after bullet rewrites, 8 example resumes, and templates.
+
 ### Canva
 
 [Canva](https://www.canva.com/create/resumes/) offers a free way to create a compelling resume design that organizes all your credentials in an impressive run-through.
