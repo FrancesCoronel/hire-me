@@ -48,6 +48,7 @@ Here are some websites you can use when looking for open positions.
 - [Dev.to Listings](https://dev.to/listings)
 - [DiversifyTech.co](https://www.diversifytech.co/job-board/)
 - [Dribbble Jobs](https://dribbble.com/jobs) 🎨
+- [EuroJobs.ai](https://eurojobs.ai/) - IT jobs in the EU, UK and Switzerland read hourly from employers' own job boards, with visa sponsorship and relocation filters
 - [GarysGuide](http://www.garysguide.com/jobs)
 - [Glassdoor Jobs](https://www.glassdoor.com/index.htm)
 - [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) 🎓 - daily-updated Canadian student and recent-grad roles across internships, co-ops, new grad, junior, and entry-level positions
